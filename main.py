@@ -10,7 +10,7 @@ from flask import Flask
 from threading import Thread
 
 # Configurações do Bot (use variáveis de ambiente no Replit para segurança)
-WHATSAPP_GROUP_ID = os.getenv("WHATSAPP_GROUP_ID", "SEU_GROUP_ID_AQUI")  # Ex: ABC123xyz-456789
+WHATSAPP_GROUP_ID = ("https://chat.whatsapp.com/C8UbkJTI5lNAHO548btqj4")  # Ex: ABC123xyz-456789
 API_URL = "https://api.casinoscores.com/svc-evolution-game-events/api/bacbo/latest"
 
 # Configuração de logging
