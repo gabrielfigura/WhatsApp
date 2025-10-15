@@ -1,0 +1,4 @@
+aiohttp==3.9.5
+python-telegram-bot==20.7
+tenacity==8.5.0
+beautifulsoup4==4.12.3
